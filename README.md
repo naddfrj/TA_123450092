@@ -114,28 +114,6 @@ Format: `<KODE PUSAT RISET>_<NOMOR URUT 3 DIGIT>`. Nomor urut berjalan per pusat
 | PRGI | `PRGI_001` sampai `PRGI_005` | 5 |
 | PRMC | belum ditentukan (menunggu data kegiatan) | - |
 
-Contoh isi:
-
-| ID Riset | Kelompok Riset | Kegiatan Riset |
-|---|---|---|
-| PRSDI_001 | Pemerintahan Digital (Digital Government) | Sistem Pemerintahan Berbasis Elektronik |
-| PRSDI_002 | ... | ... |
-| ... | ... | ... |
-| PRSDI_033 | ... | ... |
-| PRGI_001 | ... | ... |
-| ... | ... | ... |
-| PRGI_005 | ... | ... |
-
-Contoh dalam format CSV:
-
-```csv
-ID Riset,Kelompok Riset,Kegiatan Riset
-PRSDI_001,Pemerintahan Digital (Digital Government),Sistem Pemerintahan Berbasis Elektronik
-PRSDI_002,...,...
-```
-
----
-
 ## Catatan dan Keterbatasan Data
 
 - **Data PRMC belum lengkap.** Hanya daftar kelompok riset yang tersedia, jumlah kegiatan belum diberikan. Jangan memasukkan PRMC ke dalam perbandingan atau total sebelum datanya ada.
