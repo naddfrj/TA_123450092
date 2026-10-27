@@ -84,7 +84,7 @@ Catatan: Kelompok Riset Geovisualisasi dan Infrastruktur tercatat 0 kegiatan.
 Terdapat **6 kelompok riset**. Jumlah kegiatan **belum diberikan**.
 
 | No | Kelompok Riset | Jumlah Kegiatan |
-|---:|---|---|---|
+|---:|---|---|
 | 1 | Sistem Instrumentasi Cerdas | _belum ada data_ |
 | 2 | Biomekatronika | _belum ada data_ |
 | 3 | Dinamika dan Kendali Cerdas | _belum ada data_ |
