@@ -83,14 +83,14 @@ Catatan: Kelompok Riset Geovisualisasi dan Infrastruktur tercatat 0 kegiatan.
 
 Terdapat **6 kelompok riset**. Jumlah kegiatan **belum diberikan**.
 
-| No | Kelompok Riset | Nama Bahasa Inggris | Jumlah Kegiatan |
+| No | Kelompok Riset | Jumlah Kegiatan |
 |---:|---|---|---|
-| 1 | Sistem Instrumentasi Cerdas | Intelligent Instrumentation System | _belum ada data_ |
-| 2 | Biomekatronika | Biomechatronics | _belum ada data_ |
-| 3 | Dinamika dan Kendali Cerdas | Intelligent Dynamics and Control | _belum ada data_ |
-| 4 | Mesin Cerdas dan Sistem Otonomos | Smart Machines and Autonomous Systems | _belum ada data_ |
-| 5 | Robotika dan Kecerdasan Sistem (RoSI) | Robotics and System Intelligence | _belum ada data_ |
-| 6 | Plasma Fluida Cerdas | Smart Plasma Fluid | _belum ada data_ |
+| 1 | Sistem Instrumentasi Cerdas | _belum ada data_ |
+| 2 | Biomekatronika | _belum ada data_ |
+| 3 | Dinamika dan Kendali Cerdas | _belum ada data_ |
+| 4 | Mesin Cerdas dan Sistem Otonomos | _belum ada data_ |
+| 5 | Robotika dan Kecerdasan Sistem (RoSI) | _belum ada data_ |
+| 6 | Plasma Fluida Cerdas | _belum ada data_ |
 
 ---
 
